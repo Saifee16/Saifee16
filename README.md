@@ -78,7 +78,7 @@ React · Next.js
 ## Education
 
 **National University of Sciences & Technology (NUST) — PNEC**  
-M.S. Artificial Intelligence — starting September 2026
+M.S. Artificial Intelligence — September 2026 - continue
 
 **NED University of Engineering & Technology**  
 B.E. Telecommunication Engineering — 2022–2026
