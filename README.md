@@ -1,21 +1,107 @@
-# 💫 About Me:
-I am a Telecommunication Engineering student, graduating in June 2026, with hands-on experience in full-stack web development and data analytics. Currently, I am working on multiple full-stack projects for different organizations, focusing on scalable, real-world solutions.<br><br>I am actively learning Agentic AI through GIAIC, with a strong interest in AI, Web 3.0, Metaverse. I am building a solid foundation in Python for Agentic AI and IoT, while leveraging my existing technical stack across web and data domains.<br><br>I have completed multiple hackathons and practical builds under the GIAIC AI Initiative Program, including projects such as a Physical AI Book Builder, To-Do List Maker, and several creative and experimental Python programs, emphasizing rapid prototyping and problem-solving.<br><br>My technical experience includes PHP, Laravel, SQL, TypeScript, React, Node.js, and backend-driven application architectures. Alongside development, I work as a freelance Data Analyst, having collaborated with companies based in Austria. I am a Google-certified Data Analytics professional, with additional working knowledge of cybersecurity fundamentals.<br><br>I adapt quickly to new technologies and enjoy implementing ideas efficiently. While I actively use modern AI tools like Claude and Gemini to enhance productivity, I prioritize understanding systems deeply rather than relying on automation alone.<br>Vibe coding is fun, but building reliable systems is better.<br>
+# Saifullah Suleman
 
+**Applied AI & Backend Engineer**  
+I build production-minded AI systems and the backend infrastructure around them — with an emphasis on reliability, evaluation, security, and deployability.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wraith1622) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/سیف اللہ سلیمان) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saifee_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saifullah Suleman) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Saifee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imsaifq1@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saifee16&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Saifee16&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifee16&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+[Portfolio](https://saifullahsuleman.dev) · [LinkedIn](https://www.linkedin.com/in/saifullah-suleman/) · [Email](mailto:imsaifq1@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saifee16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected Engineering Work
+
+| Project | What it demonstrates |
+|---|---|
+| **[PDF RAG Chatbot](https://github.com/Saifee16/pdf-rag-chatbot)** | Secure async RAG backend with OCR, hybrid retrieval, reranking, confidence gating, abstention, regression evaluation, and validated citations. |
+| **[LLM API Gateway](https://github.com/Saifee16/llm-api-gateway)** | Provider-neutral LLM infrastructure with stable aliases, retries, fallback chains, structured output, usage accounting, and cost analytics. |
+| **[Lead Scoring ML API](https://github.com/Saifee16/lead-scoring-ml-api)** | Reproducible ML inference service with calibration diagnostics, business-aware threshold policy, artifact integrity checks, and batch/CSV scoring. |
+| **[Wahab Mobiles](https://github.com/Saifee16/e-com-WM)** | Production e-commerce platform for a real retail business, covering authentication, checkout integrity, administration, persistence, and deployment. **Live:** [wahabmobiles.com](https://wahabmobiles.com) |
+| **[AI Engineering Starter Kit](https://github.com/Saifee16/ai-engineering-starter-kit)** | Production-minded FastAPI foundation for AI services with typed configuration, persistence, migrations, tests, security guardrails, and CI. |
+| **[MS-ADA Intelligent Traffic Surveillance](https://github.com/Saifee16/ms-ada-traffic-accident-detection)** | Academic computer-vision prototype combining detection, tracking, ALPR, temporal multi-signal accident reasoning, evidence capture, and evaluation tooling. |
+
+---
+
+## What I Work On
+
+I work where **applied AI meets dependable software engineering**:
+
+- RAG systems, retrieval quality, confidence gating, and grounded generation
+- LLM infrastructure, routing, retries, fallbacks, structured output, and usage tracking
+- ML APIs, probability calibration, evaluation, and decision-threshold policy
+- Backend systems with FastAPI, PostgreSQL, Redis, queues, migrations, and typed contracts
+- Computer vision pipelines with detection, tracking, ALPR, and temporal reasoning
+- Full-stack product engineering where authentication, data integrity, security, and deployment all matter
+
+I prefer building systems that make their assumptions and limitations explicit rather than hiding them behind demos.
+
+---
+
+## Core Stack
+
+**Languages**  
+Python · TypeScript · SQL
+
+**Backend & Data**  
+FastAPI · PostgreSQL · Redis · SQLAlchemy · Alembic · REST APIs
+
+**Applied AI / ML**  
+RAG · LLM APIs · scikit-learn · PyTorch · OpenCV · Qdrant · OCR
+
+**Infrastructure & Quality**  
+Docker · GitHub Actions · Pytest · Ruff · CodeQL · Dependabot · Linux
+
+**Product / Frontend**  
+React · Next.js
+
+---
+
+## Engineering Principles
+
+- **Evaluation over vague claims** — metrics should be defined, reproducible, and scoped correctly.
+- **Security by default** — secrets, uploads, authentication, dependencies, and deployment boundaries deserve explicit treatment.
+- **Typed interfaces and clear contracts** — APIs and data models should fail predictably.
+- **Operational realism** — persistence, migrations, retries, background work, observability, and failure modes matter.
+- **Honest limitations** — research prototypes, synthetic benchmarks, private alpha systems, and production software should not be presented as the same thing.
+
+---
+
+## Current Focus
+
+- Applied AI engineering
+- Backend systems for AI products
+- RAG quality and evaluation
+- LLM infrastructure and agentic systems
+- ML system reliability
+- Production software architecture
+
+---
+
+## Education
+
+**National University of Sciences & Technology (NUST) — PNEC**  
+M.S. Artificial Intelligence — starting September 2026
+
+**NED University of Engineering & Technology**  
+B.E. Telecommunication Engineering — 2022–2026
+
+---
+
+## Leadership
+
+**President — TE Links, NED University (2025–2026)**  
+Led the departmental student body across technical sessions, professional-development activities, partnerships, community initiatives, and university programming.
+
+---
+
+## Portfolio
+
+For full case studies, architecture notes, project limitations, research context, and supporting material:
+
+### **[saifullahsuleman.dev](https://saifullahsuleman.dev)**
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/saifullah-suleman](https://www.linkedin.com/in/saifullah-suleman/)
+- **Email:** [imsaifq1@gmail.com](mailto:imsaifq1@gmail.com)
+- **Portfolio:** [saifullahsuleman.dev](https://saifullahsuleman.dev)
